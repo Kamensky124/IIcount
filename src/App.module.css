@@ -1,0 +1,18 @@
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    color: brown;
+}
+
+.count--max {
+    color:red
+}
+
+.count {
+
+}
